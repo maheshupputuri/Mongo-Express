@@ -29,5 +29,4 @@ services:
 networks:
   mongo:
     driver: bridge 
-networks:
-  mongo:
+
